@@ -7,7 +7,7 @@ This is currently available on bioRxiv at: https://doi.org/10.1101/2023.02.22.52
 
 ***this repo currently involves code and data for two projects and is being split apart***
 
-### Running the Notebook
+### Running the Notebooks
 Once you have pulled the repo down locally via git and have Docker installed all code here can be run fully in Docker based on a prebuilt environment by running:
 
 `docker run -it -v <location of code>:/home/jovyan --rm -p 8888:8888 pangeo/pangeo-notebook:2021.05.15 jupyter lab --ip 0.0.0.0`
@@ -22,6 +22,18 @@ Frontal eddies are spinning masses of water (~30km in diameter) that move along 
 - In-depth investigation of a frontal eddy in the Gulf Stream off Cape Hatteras, North Carolina
 - Continued physical and biogeochemical differences are observed between the eddy and adjacent water masses even as it begins to shear apart
 - A conceptual model is developed for the ecological impact of frontal eddies along with the hypothesis that they could supply zooplankton to secondary consumers
+
+### Notebooks
+There are a number of notebooks that can be used to recreate this analysis along with the provided data: 
+- In analyze_sw_cruise_all_inline.ipynb we do most of the primary analysis which analyzes all and combines nearly all the primary datasets and then compares them discretely and on T-S diagrams. It also visualizes the ACS data and many of the supplemental figures.
+- In analyzing_adcp_data.ipynb we generate the ADCP echosounder comparisons and visualizes four transects across the frontal eddy with all the ADCP data. 
+- In profile_analysis_sept.ipynb we calculate the mixed layer depths and visualizes the profile data.
+- In acs_analysis_sept_cruise.ipynb we visualize the ACS data across all transects and ensure data quality.
+- In olci_sat_analysis.ipynb we generate all the satellite data comparison and look at the frontal eddy over time.
+- In analyze_sw_cruise.ipynb we just explore both the satellite data and the ship data.
+- In processing_sept_ctd.ipynb we show all CTD data from the cruise.
+- In model_output_analysis.ipynb, which is not included in the paper, we compare satellite data to model output to see if the eddy is represented in a high resolution model.
+- In format_for_inline_analysis.ipynb we take the Seabird and ship system output and merge it into a usable .csv file.
 
 
 ### Citation
