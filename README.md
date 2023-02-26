@@ -5,14 +5,14 @@ Authors:
 
 This is currently available on bioRxiv at: https://doi.org/10.1101/2023.02.22.529409 and is under review at the Journal of Geophysical Research: Oceans.
 
-***this repo currently involves code and data for two projects and is being split apart***
-
 ### Running the Notebooks
 Once you have pulled the repo down locally via git and have Docker installed all code here can be run fully in Docker based on a prebuilt environment by running:
 
 `docker run -it -v <location of code>:/home/jovyan --rm -p 8888:8888 pangeo/pangeo-notebook:2021.05.15 jupyter lab --ip 0.0.0.0`
 
 This will launch a Jupyter Lab instance that can run everything for you. This can also be easily done in the cloud if you have a cloud environment that can be launched with a Docker image.
+
+All the data for this work is included on Zenodo at _ and should be placed within this repo in a directory called `data/sept_cruise/`
 
 ## Plain Language Summary of this Work
 
