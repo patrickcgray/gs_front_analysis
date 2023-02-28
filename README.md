@@ -1,5 +1,7 @@
 # The Impact of Gulf Stream Frontal Eddies on Ecology and Biogeochemistry near Cape Hatteras
 
+[![DOI](https://zenodo.org/badge/406488981.svg)](https://zenodo.org/badge/latestdoi/406488981)
+
 Authors:
 [Patrick C. Gray](https://orcid.org/0000-0002-8997-5255) Jessica Gronniger, Ivan Sayvelev, Julian Dale, Alexandria K. Niebergall, Nicolas Cassar, Anna E. Windle, Dana E. Hunt, Zackary Johnson, Marina Lévy, Chris Taylor, Guillaume Bourdin, Ashley Blawas, Amanda Lohmann, Greg Silsbe, David W. Johnston
 
