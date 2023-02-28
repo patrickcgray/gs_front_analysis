@@ -1,4 +1,4 @@
-# Investigating a Gulf Stream Frontal Eddy North of Cape Hatteras: Questioning Overall Impacts on Ecology
+# The Impact of Gulf Stream Frontal Eddies on Ecology and Biogeochemistry near Cape Hatteras
 
 Authors:
 [Patrick C. Gray](https://orcid.org/0000-0002-8997-5255) Jessica Gronniger, Ivan Sayvelev, Julian Dale, Alexandria K. Niebergall, Nicolas Cassar, Anna E. Windle, Dana E. Hunt, Zackary Johnson, Marina Lévy, Chris Taylor, Guillaume Bourdin, Ashley Blawas, Amanda Lohmann, Greg Silsbe, David W. Johnston
