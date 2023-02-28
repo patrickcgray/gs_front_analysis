@@ -12,7 +12,7 @@ Once you have pulled the repo down locally via git and have Docker installed all
 
 This will launch a Jupyter Lab instance that can run everything for you. This can also be easily done in the cloud if you have a cloud environment that can be launched with a Docker image.
 
-All the data for this work is included on Zenodo at doi.org/10.5281/zenodo.7680135 and should be placed within this repo in a directory called `data/` but this can be changed with a variable at the beginning of each notebook.
+All the data for this work is included on Zenodo at https://doi.org/10.5281/zenodo.7680135 and should be placed within this repo in a directory called `data/` but this can be changed with a variable at the beginning of each notebook.
 
 ## Plain Language Summary of this Work
 
